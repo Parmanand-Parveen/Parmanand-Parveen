@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parmanand-Parveen
 - 👀 I’m interested in Web development and learning new tech
-- 🌱 I’m currently learning in Delhi
+- 🌱 I’m currently leaving in Delhi 
 - 💞️ I’m looking to collaborate on frontend 
 - 📫 How to reach me ...parmanandparveen@gmail.com
 
